@@ -1,0 +1,11 @@
+C:\Users\madawala\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\madawala\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\madawala\source\repos\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.AssemblyReference.cache
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.cache
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+C:\Users\madawala\source\repos\ContactBook\ContactBook\obj\Debug\ContactBook.Phone.resources
